@@ -1,2 +1,3 @@
 # habr-demo-app
-Demo application for habr ci/cd using jenkins &amp; kubernetes post
+
+Demo application for habr post about configuring ci/cd using jenkins & kubernetes post
